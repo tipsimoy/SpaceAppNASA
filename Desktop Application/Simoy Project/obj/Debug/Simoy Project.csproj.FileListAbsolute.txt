@@ -1,0 +1,22 @@
+C:\Users\Alfred\Desktop\ECE100 LABVIEW Project\Simoy Project\Simoy Project\bin\Debug\Simoy Project.exe.config
+C:\Users\Alfred\Desktop\ECE100 LABVIEW Project\Simoy Project\Simoy Project\bin\Debug\Simoy Project.exe
+C:\Users\Alfred\Desktop\ECE100 LABVIEW Project\Simoy Project\Simoy Project\bin\Debug\Simoy Project.pdb
+C:\Users\Alfred\Desktop\ECE100 LABVIEW Project\Simoy Project\Simoy Project\obj\Debug\Simoy Project.csprojResolveAssemblyReference.cache
+C:\Users\Alfred\Desktop\ECE100 LABVIEW Project\Simoy Project\Simoy Project\obj\Debug\Simoy_Project.frm_Main.resources
+C:\Users\Alfred\Desktop\ECE100 LABVIEW Project\Simoy Project\Simoy Project\obj\Debug\Simoy_Project.Properties.Resources.resources
+C:\Users\Alfred\Desktop\ECE100 LABVIEW Project\Simoy Project\Simoy Project\obj\Debug\Simoy Project.csproj.GenerateResource.Cache
+C:\Users\Alfred\Desktop\ECE100 LABVIEW Project\Simoy Project\Simoy Project\obj\Debug\Simoy Project.exe
+C:\Users\Alfred\Desktop\ECE100 LABVIEW Project\Simoy Project\Simoy Project\obj\Debug\Simoy Project.pdb
+C:\Users\Alfred\Desktop\Simoy Project\Simoy Project\bin\Debug\Simoy Project.exe.config
+C:\Users\Alfred\Desktop\Simoy Project\Simoy Project\obj\Debug\Simoy Project.exe
+C:\Users\Alfred\Desktop\Simoy Project\Simoy Project\obj\Debug\Simoy Project.pdb
+C:\Users\Alfred\Desktop\Simoy Project\Simoy Project\bin\Debug\Simoy Project.exe
+C:\Users\Alfred\Desktop\Simoy Project\Simoy Project\bin\Debug\Simoy Project.pdb
+C:\Users\Alfred\Desktop\Simoy Project\Simoy Project\bin\Debug\GSMCommServer.dll
+C:\Users\Alfred\Desktop\Simoy Project\Simoy Project\bin\Debug\GSMCommShared.dll
+C:\Users\Alfred\Desktop\Simoy Project\Simoy Project\bin\Debug\GSMCommunication.dll
+C:\Users\Alfred\Desktop\Simoy Project\Simoy Project\bin\Debug\PDUConverter.dll
+C:\Users\Alfred\Desktop\Simoy Project\Simoy Project\obj\Debug\Simoy Project.csprojResolveAssemblyReference.cache
+C:\Users\Alfred\Desktop\Simoy Project\Simoy Project\obj\Debug\Simoy_Project.frm_Main.resources
+C:\Users\Alfred\Desktop\Simoy Project\Simoy Project\obj\Debug\Simoy_Project.Properties.Resources.resources
+C:\Users\Alfred\Desktop\Simoy Project\Simoy Project\obj\Debug\Simoy Project.csproj.GenerateResource.Cache
