@@ -2,7 +2,7 @@
 - Simoy is a platform to crowd-source information, way to accurately measure
 the air quality. It displays air-related symptoms.
 
--The crowd source information will be coming from a deployable unit. We also have a
+- The crowd source information will be coming from a deployable unit. We also have a
 way to crowd source information from the people of the community. The app will
 indicate health effects corresponding to air quality of certain areas geolocated by
 crowdsourcer. It will also give you advice on how you’ll improve air quality.
@@ -14,38 +14,38 @@ houses for stationary monitoring.
 
 ### How to use the Desktop Application ###
 
--Register your rover on our web application, and get the permalink.
--Paste the permalink on the desktop app then specify the serial communication port
+- Register your rover on our web application, and get the permalink.
+- Paste the permalink on the desktop app then specify the serial communication port
 	of your GSM USB Stick then click connect.
--Start your rover.
--The rover will send data to your GSM.
--Desktop app will allow you to review all data being sent by the rover, then click Upload
+- Start your rover.
+- The rover will send data to your GSM.
+- Desktop app will allow you to review all data being sent by the rover, then click Upload
 	when you are done.
--The data will now be sent and recorded on our server.
+- The data will now be sent and recorded on our server.
 
 Note: Internet Connection is required for uploading process.
 
 ### How to use the Web Application ###
 
--CREATING AN ACCOUNT---
--Access the main page of Simoy Project.
--Click Signup.
--Fill-in all required information.
--Click Register. And now you may login through the main site.
+- CREATING AN ACCOUNT---
+- Access the main page of Simoy Project.
+- Click Signup.
+- Fill-in all required information.
+- Click Register. And now you may login through the main site.
 
--REGISTER YOUR ROVER---
--Logon to your account.
--Click Add Rover.
--Specify a name your want.
--Specify the serial code provided upon purchase of your rover.
--Done.
+- REGISTER YOUR ROVER---
+- Logon to your account.
+- Click Add Rover.
+- Specify a name your want.
+- Specify the serial code provided upon purchase of your rover.
+- Done.
 
--REVIEWING RECENT DATA---
--Logon to your account.
--Click myData.
--On this part, you can see all informations provided by the rover.
--Web Application also provide HIGH, MID, LOW conditions.
--Also, it provides symptoms.
+- REVIEWING RECENT DATA---
+- Logon to your account.
+- Click myData.
+- On this part, you can see all informations provided by the rover.
+- Web Application also provide HIGH, MID, LOW conditions.
+- Also, it provides symptoms.
 
 ### End-User License Agreement (EULA) ###
 
@@ -66,8 +66,8 @@ For assistance, please call or email us (tip.simoy@gmail.com).
 
 ### PLATFORMS & API ###
 
--Microsoft Visual Studio for Windows Descktop (C#)
--Google Maps API
--jQuery API
--ApacheFriends XAMPP
--Arduino
+- Microsoft Visual Studio for Windows Descktop (C#)
+- Google Maps API
+- jQuery API
+- ApacheFriends XAMPP
+- Arduino
